@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CholeyMate — Spotify Clone
 
 A demo Spotify-like web app built with Next.js, Tailwind, Prisma, NextAuth, Zustand, and react-player. Uses YouTube search for music playback via a secure server-side proxy.
@@ -26,3 +27,6 @@ A demo Spotify-like web app built with Next.js, Tailwind, Prisma, NextAuth, Zust
 ## Notes
 - This scaffold focuses on core features and is intended as a starting point.
 - For production, secure environment variables, implement robust error handling, and follow best practices for database migrations and secrets management.
+=======
+# CholeyMate
+>>>>>>> c77150425b4b24d1ed98edd04d7e5a2b001f683f
